@@ -1,3 +1,9 @@
+---
+lauout: page
+title: software Eng. lecture note
+permalink: /docs/softwareEng2025
+---
+
 # ソフトウェア工学内容まとめ（第１回～第６回）
 ## 第１回
 この講義では、ソフトウェア・エンジニアリングの基礎知識の理解および実務的なスキルの習得を目標とする。
